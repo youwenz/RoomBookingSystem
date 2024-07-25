@@ -1,0 +1,5 @@
+Alice,VIP,false,3
+Bob,Normal,false,1
+Eve,Member,true,1
+Carol,Member,false,1
+Dickson,Normal,false,1
